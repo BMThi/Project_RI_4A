@@ -6,7 +6,7 @@ We are a team of students at [INSA Toulouse](http://www.insa-toulouse.fr/) condu
 
 ## Project Description
 
-The aim of our project is to develop an effective aerosol typing method using the DELIAN dataset, which comprises a wealth of experimental data on the optical properties of aerosols.
+The aim of our project is to develop some effective aerosol typing methods using the DELIAN dataset, which comprises a wealth of experimental data on the intensive optical properties of aerosols.
 
 ## Current Progress
 
